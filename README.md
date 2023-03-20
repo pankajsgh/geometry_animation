@@ -1,4 +1,4 @@
-# flutter_animation_geometry
+# geometry_animation
 
 A new Flutter project.
 

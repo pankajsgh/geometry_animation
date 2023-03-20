@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_animation_geometry">
+    package="com.example.geometry_animation">
    <application
-        android:label="flutter_animation_geometry"
+        android:label="geometry_animation"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
